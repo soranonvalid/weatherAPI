@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.grotesk {
+  font-family: "Schibsted Grotesk", Arial, sans-serif !important;
+}
